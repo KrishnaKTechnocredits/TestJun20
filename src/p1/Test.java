@@ -9,4 +9,8 @@ public class Test {
 	void main(){
 		System.out.println("Hi Krishna");
 	}
+	
+	void m1(){
+		System.out.println("Nothing to display");
+	}
 }
