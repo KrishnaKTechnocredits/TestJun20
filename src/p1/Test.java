@@ -13,4 +13,8 @@ public class Test {
 	void m2(){
 		System.out.println("Nothing to display");
 	}
+	
+	void m3(){
+		System.out.println("Nothing to display123");
+	}
 }
