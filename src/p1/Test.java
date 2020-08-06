@@ -7,5 +7,6 @@ public class Test {
 	}
 	
 	void main(){
+		System.out.println("Hi Krishna");
 	}
 }
