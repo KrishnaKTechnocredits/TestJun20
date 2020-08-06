@@ -18,4 +18,8 @@ public class Test {
 	void dispaly(){
 		System.out.println("I am in TechnoCredits");
 	}
+	
+	void m1(){
+		System.out.println("Nothing to display");
+	}
 }
