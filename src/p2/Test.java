@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("IN branch A");
 		System.out.println("IN branch A1");
 		System.out.println("IN branch AB");
+		System.out.println("IN branch AB");
 	}
 }
